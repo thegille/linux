@@ -5,7 +5,7 @@ own device drivers? Are you without a nice project and just dying to cut your te
 on a OS you can try to modify for your needs? Are you finding it frustrating when  
 everything works on your OS? No more all-nighters to get a nifty program working?  
 Then this post might be just for you.  
-> Torvalds, L. [^1]
+Torvalds, L. [^1]
 
 
 
