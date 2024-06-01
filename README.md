@@ -7,7 +7,11 @@ everything works on your OS? No more all-nighters to get a nifty program working
 Then this post might be just for you.  
 Torvalds, L[^1].  
 
+# Otro Encabezado
 
+# Tercer Encabezado
+
+## Otro Head
 
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  
