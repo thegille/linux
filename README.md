@@ -1,4 +1,4 @@
-# [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) Linux Command Line
+# [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) Linux
 
 >Do you pine for the nice days of Minix 1.1, when men were men and wrote their  
 >own device drivers? Are you without a nice project and just dying to cut your  
